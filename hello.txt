@@ -9,3 +9,4 @@ hello git!
 master update
 hot-fix update
 githup update
+test ssh push
